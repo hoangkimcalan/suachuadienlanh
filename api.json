@@ -1,0 +1,14 @@
+{
+    "unspent_outputs": [
+        {
+            "tx_hash": "",
+            "tx_index": "",
+            "tx_output_n": 0,
+        
+        "script": "",
+            "value": 1,
+            "value_hex": "",
+            "comfirmations": 0
+        }
+    ]
+}
